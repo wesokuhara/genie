@@ -1,15 +1,18 @@
 # Genie
 Helpful reference commands and cheatsheets
 
-[React](#react)
-
-[NPM](#npm)
-
-[Markdown](#markdown)
+* [React](#react)
+* [Redux](#redux)
+* [NPM](#npm)
+* [Markdown](#markdown)
 
 ## React
 
 [React Cheatsheet](https://devhints.io/react)
+
+## Redux
+
+[Redux Cheatsheet](https://devhints.io/redux)
 
 ## NPM
 
