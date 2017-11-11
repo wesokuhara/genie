@@ -1,6 +1,12 @@
 # Genie
 Helpful reference commands and cheatsheets
 
+[React](#react)
+
+[NPM](#npm)
+
+[Markdown](#markdown)
+
 ## React
 
 [React Cheatsheet](https://devhints.io/react)
