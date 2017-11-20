@@ -27,6 +27,7 @@ npm ls -g --depth=0
 
 * Revert back to the last commit, removing any local changes: `git reset --hard HEAD`
 * Unstage a staged file: `git reset <FILE>`
+* Revert a file to last committed local version: `git checkout -- <FILE>`
 
 ## Markdown
 
