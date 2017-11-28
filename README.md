@@ -7,11 +7,33 @@ Helpful reference commands and cheatsheets
 * [Git](#git)
 * [Markdown](#markdown)
 
-## React
+## React 
 
 [React Cheatsheet](https://devhints.io/react)
 
-## Redux
+[React Router Scroll to Top on Navigation](https://github.com/ReactTraining/react-router/blob/master/packages/react-router-dom/docs/guides/scroll-restoration.md)
+
+```js
+import React, { Component } from 'react';
+import { withRouter } from 'react-router-dom';
+
+class ScrollTopOnNavigation extends Component {
+  componentDidUpdate(prevProps) {
+    if (this.props.location !== prevProps.location) {
+      window.scrollTo(0, 0);
+    }
+  }
+
+  render() {
+    return this.props.children;
+  }
+}
+
+export default withRouter(ScrollTopOnNavigation);
+``` 
+
+
+## Redux 
 
 [Redux Cheatsheet](https://devhints.io/redux)
 
