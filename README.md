@@ -13,6 +13,7 @@ Helpful reference commands and cheatsheets
 
 [React Router Scroll to Top on Navigation](https://github.com/ReactTraining/react-router/blob/master/packages/react-router-dom/docs/guides/scroll-restoration.md)
 
+Often you will need to scroll to the top of a long page, that when navigated to stays scrolled down. Make sure to wrap it in `withRouter` to give it access to the Router's props.
 ```js
 import React, { Component } from 'react';
 import { withRouter } from 'react-router-dom';
@@ -31,7 +32,17 @@ class ScrollTopOnNavigation extends Component {
 
 export default withRouter(ScrollTopOnNavigation);
 ``` 
+Then render it at the top of your app, but below the Router:
 
+```js
+const App = () => (
+  <BrowserRouter>
+    <ScrollTopOnNavigation>
+      ...
+    </ScrollTopOnNavigation>
+  </BrowserRouter>
+);
+```
 
 ## Redux 
 
