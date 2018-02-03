@@ -57,6 +57,8 @@ Show globally installed NPM packages: `npm ls -g --depth=0`
 ## Git
 
 * Revert back to the last commit, removing any local changes: `git reset --hard HEAD`
+* Undo latest commit, keeping any local changes: `git reset HEAD^`
+* Edit the latest local commit message: `git commit --amend`
 * Unstage a staged file: `git reset <FILE>`
 * Revert a file to last committed local version: `git checkout -- <FILE>`
 
