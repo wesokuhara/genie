@@ -1,5 +1,5 @@
 # Genie
-Helpful reference commands and cheatsheets
+Helpful commands, references, and cheatsheets
 
 * [React](#react)
 * [Redux](#redux)
@@ -11,11 +11,13 @@ Helpful reference commands and cheatsheets
 
 [React Cheatsheet](https://devhints.io/react)
 
-[React Router Scroll to Top on Navigation](https://github.com/ReactTraining/react-router/blob/master/packages/react-router-dom/docs/guides/scroll-restoration.md) ([Gist](https://gist.github.com/wesokuhara/b94c9403b84dc072156ee1b95a0904b9))
+[React Router Scroll Restoration](https://gist.github.com/wesokuhara/b94c9403b84dc072156ee1b95a0904b9) ([Source](https://github.com/ReactTraining/react-router/blob/master/packages/react-router-dom/docs/guides/scroll-restoration.md))
 
 ## Redux 
 
 [Redux Cheatsheet](https://devhints.io/redux)
+
+[Redux Thunks](https://github.com/gaearon/redux-thunk)
 
 [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
 
