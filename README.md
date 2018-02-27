@@ -13,6 +13,10 @@ Helpful commands, references, and cheatsheets
 
 [React Router Scroll Restoration](https://gist.github.com/wesokuhara/b94c9403b84dc072156ee1b95a0904b9) ([Source](https://github.com/ReactTraining/react-router/blob/master/packages/react-router-dom/docs/guides/scroll-restoration.md))
 
+[React Helmet](https://github.com/nfl/react-helmet)
+
+[Styled Components](https://www.styled-components.com)
+
 ## Redux 
 
 [Redux Cheatsheet](https://devhints.io/redux)
