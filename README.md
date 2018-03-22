@@ -6,6 +6,7 @@ Helpful commands, references, and cheatsheets
 * [NPM](#npm)
 * [Git](#git)
 * [Markdown](#markdown)
+* [Ramda](#ramda)
 
 ## React 
 
@@ -40,3 +41,7 @@ Show globally installed NPM packages: `npm ls -g --depth=0`
 ## Markdown
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## Ramda
+
+[Ramda Cookbook](https://github.com/ramda/ramda/wiki/Cookbook)
