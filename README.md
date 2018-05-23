@@ -37,6 +37,7 @@ Show globally installed NPM packages: `npm ls -g --depth=0`
 * Edit the latest local commit message: `git commit --amend`
 * Unstage a staged file: `git reset <FILE>`
 * Revert a file to last committed local version: `git checkout -- <FILE>`
+* Rename your current working local branch: `git branch -m <NEW_NAME>`
 
 ## Markdown
 
