@@ -12,11 +12,16 @@ Helpful commands, references, and cheatsheets
 
 [React Cheatsheet](https://devhints.io/react)
 
-[React Router Scroll Restoration](https://gist.github.com/wesokuhara/b94c9403b84dc072156ee1b95a0904b9) ([Source](https://github.com/ReactTraining/react-router/blob/master/packages/react-router-dom/docs/guides/scroll-restoration.md))
+[React Tutorials by Egghead.io](https://egghead.io/browse/frameworks/react)
 
-[React Helmet](https://github.com/nfl/react-helmet)
+#### Libraries
+* [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
+* [Styled Components](https://www.styled-components.com)
+* [React Helmet](https://github.com/nfl/react-helmet)
+* [Ant Design](https://ant.design/docs/react/introduce)
 
-[Styled Components](https://www.styled-components.com)
+#### Snippets
+* [React Router Scroll Restoration](https://gist.github.com/wesokuhara/b94c9403b84dc072156ee1b95a0904b9) ([Source](https://github.com/ReactTraining/react-router/blob/master/packages/react-router-dom/docs/guides/scroll-restoration.md))
 
 ## Redux 
 
@@ -28,7 +33,7 @@ Helpful commands, references, and cheatsheets
 
 ## NPM
 
-Show globally installed NPM packages: `npm ls -g --depth=0`
+* Show globally installed NPM packages: `npm ls -g --depth=0`
 
 ## Git
 
