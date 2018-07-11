@@ -40,8 +40,7 @@ Helpful commands, references, and cheatsheets
 * Revert back to the last commit, removing any local changes: `git reset --hard HEAD`
 * Undo latest commit, keeping any local changes: `git reset HEAD^`
 * Edit the latest local commit message: `git commit --amend`
-* Unstage a staged file: `git reset <FILE>`
-* Unstage all staged files: `git reset HEAD -- .`
+* Unstage a staged file or files: `git reset [<FILE>]`
 * Revert a file to last committed local version: `git checkout -- <FILE>`
 * Rename your current working local branch: `git branch -m <NEW_NAME>`
 
