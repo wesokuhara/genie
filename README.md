@@ -4,16 +4,18 @@ Helpful commands, references, and cheatsheets
 
 - [React](#react)
 - [Redux](#redux)
-- [NPM](#npm)
+- [Ruby on Rails](#ruby-on-rails)
 - [Git](#git)
 - [Markdown](#markdown)
 - [Ramda](#ramda)
+- [CSS](#css)
+- [Miscellaneous](#misc)
 
 ## React
 
-[React Cheatsheet](https://devhints.io/react)
-
-[React Tutorials by Egghead.io](https://egghead.io/browse/frameworks/react)
+[React Cheatsheet](https://devhints.io/react)\
+[React Tutorials by Egghead.io](https://egghead.io/browse/frameworks/react)\
+[Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 
 #### Libraries
 
@@ -28,15 +30,18 @@ Helpful commands, references, and cheatsheets
 
 ## Redux
 
-[Redux Cheatsheet](https://devhints.io/redux)
-
-[Redux Thunks](https://github.com/gaearon/redux-thunk)
-
+[Redux Cheatsheet](https://devhints.io/redux)\
+[Redux Thunks](https://github.com/gaearon/redux-thunk)\
 [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
 
-## NPM
+## MobX
 
-- Show globally installed NPM packages: `npm ls -g --depth=0`
+[Ten minute introduction to MobX and React](https://mobx.js.org/getting-started.html)
+
+## Ruby on Rails
+
+[CRUD Actions](https://guides.rubyonrails.org/routing.html#crud-verbs-and-actions)\
+[Creating a Migration](https://guides.rubyonrails.org/active_record_migrations.html#creating-a-migration)
 
 ## Git
 
@@ -55,3 +60,11 @@ Helpful commands, references, and cheatsheets
 ## Ramda
 
 [Ramda Cookbook](https://github.com/ramda/ramda/wiki/Cookbook)
+
+## CSS
+
+Tags are for *semantics*, IDs are for *references*, classes are for **styles**.
+
+## Misc
+
+- Show globally installed NPM packages: `npm ls -g --depth=0`
