@@ -15,7 +15,8 @@ Helpful commands, references, and cheatsheets
 
 [React Cheatsheet](https://devhints.io/react)\
 [React Tutorials by Egghead.io](https://egghead.io/browse/frameworks/react)\
-[Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
+[Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)\
+[8 Ways to Handle React State by Cory House](https://twitter.com/housecor/status/1437765673439088644/photo/1)
 
 #### Libraries
 
